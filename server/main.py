@@ -37,7 +37,7 @@ print(SECRET_KEY)
 
 @app.get("/")
 def read_root():
-    return {"Hello": "World"}
+    return 'Weather api for 5 important locations in the world: Paris, London, New York, Murcia and Newport'
 
 
 @app.get("/location/{name}")
