@@ -1,6 +1,6 @@
 # greatwave-ai
 
-[client.jpg](https://gamein-vitation.herokuapp.com/)
+![Deployed version](client.jpg)
 
 ## Technologies
 
