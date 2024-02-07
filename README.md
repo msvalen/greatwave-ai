@@ -14,10 +14,6 @@
 
   - fastAPI
 
-- Deployment
-  - Netlify (cliend)
-  - (to be find)
-
 ## Installation & Usage
 
 ### Installation
