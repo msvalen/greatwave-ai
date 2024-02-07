@@ -15,7 +15,7 @@
   - fastAPI
 
 - Deployment
-  - Netlify
+  - Netlify (cliend)
   - (to be find)
 
 ## Installation & Usage
@@ -43,7 +43,7 @@
 
 - On the client folder
   - Run in the terminal `npm run dev`
-  - Go to [localhost:8080](http://localhost:8080/) to view the client app
+  - Go to [localhost:5173](http://localhost:5173/) to view the client app
 
 ## Endpoint routes Client app
 
