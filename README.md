@@ -1,5 +1,7 @@
 # greatwave-ai
 
+[client.jpg](https://gamein-vitation.herokuapp.com/)
+
 ## Technologies
 
 - External API
@@ -27,7 +29,7 @@
 - On the client folder
   - Run `npm i`
 
-~ please note that for this app to work you will need an openweathermap api key ~
+~ please note that for this app to work you will need an openweathermap api key in a .env file in server with the constant `OPENWEATHERMAP_KEY` ~
 
 ### Usage
 
@@ -53,9 +55,6 @@
 | --------------- | ---------------------------- | ------------------------------------ | ---- |
 | /               | not aplicable                | Homepage with description of the app | GET  |
 | /location/:name | name of the location         | Return current weather information   | GET  |
-
-Future feature
-| /query/:query | query for a place not in our list | Return the weather of the most likely place | PATCH |
 
 ### List of places with known latitude and longitude
 
