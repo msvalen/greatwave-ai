@@ -19,3 +19,10 @@
   </select>
 </div>
 </main>
+<style>
+    .container {
+      @media (min-width: 760px) {
+       max-width:600px;
+      }
+    }
+</style>
